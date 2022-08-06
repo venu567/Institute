@@ -1,1 +1,1 @@
-web: gunicorn Institute.wsgi --log-file -
+web: gunicorn Venuproject.main --log-file -
