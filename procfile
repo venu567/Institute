@@ -1,1 +1,1 @@
-web: gunicorn institute23.Institute --log-file -
+web: gunicorn institute23.Institute.wsgi --log-file -
